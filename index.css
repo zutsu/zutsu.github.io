@@ -1,0 +1,25 @@
+html {
+    display: block;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+div.contain {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ddd;
+    border-radius: 8px;
+    margin: 0.5em;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-top: 0.6em;
+}
+
+p {
+    margin-top: 0.6em;
+}
